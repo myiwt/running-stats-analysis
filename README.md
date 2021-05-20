@@ -1,6 +1,6 @@
 # Statistical analysis of my running sessions
 
-Conducted some statistical analysis on data tracked from my phone during my running sessions.
+Statistical analysis of my running sessions using the data tracked on my phone.
 
 The following statistical methods are used here:
 
