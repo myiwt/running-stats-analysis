@@ -7,10 +7,12 @@ The following statistical methods are used here:
 - Hypothesis testing
 - Sampling distribution of the mean
 - Bayes's Theorem
-- Prior and posterior distribution modelling
+- Beta distribution
 - Likelihood estimates
 - Linear Regression
+- Logistic Regression
 - Chi-squared test
 - Fisher's exact test
-- T-test
+- Welch's T-test
 - Poisson distribution modelling
+- Shapiro-Wilk test
