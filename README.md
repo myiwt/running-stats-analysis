@@ -15,4 +15,5 @@ The following statistical methods are used here:
 - Fisher's exact test
 - Welch's T-test
 - Poisson distribution modelling
+- Gaussian distribution modelling
 - Shapiro-Wilk test
